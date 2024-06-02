@@ -1,0 +1,22 @@
+body{
+    font-family: "Oswald", sans-serif;
+    padding: 0;
+    margin: 0 auto;
+    position: relative;
+    width: 1000px;
+}
+table{
+    table-layout: fixed;
+    border-style: 0;
+    width: 700px;
+}
+td,th{
+    border: 1px solid yellow;
+}
+th{
+    background-color: burlywood;
+}
+p{
+    font-size: 2em;
+    font-family: "Oswald", sans-serif;
+}
